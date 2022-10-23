@@ -1,0 +1,7 @@
+.terraform
+TFXrcises/*.*
+*.tfstate.backup
+*.pem
+# Module directory
+.terraform/
+*.hcl
